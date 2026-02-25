@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Python virtualenv
+.venv/
+
+# other
+/.conda
+/.venv
